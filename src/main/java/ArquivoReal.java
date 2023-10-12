@@ -1,4 +1,4 @@
-class ArquivoReal implements Arquivo {
+public class ArquivoReal implements Arquivo {
     private final String nomeArquivo;
     private String conteudo;
 

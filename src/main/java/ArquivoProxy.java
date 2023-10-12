@@ -1,4 +1,4 @@
-class ArquivoProxy implements Arquivo {
+public class ArquivoProxy implements Arquivo {
     private final String nomeArquivo;
     private ArquivoReal arquivoReal;
 
